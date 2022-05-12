@@ -1,4 +1,4 @@
-# project-2__E.T.L
+# project-2__E.T.L: Chef Cook Book Challenge
 Project 2 with main focus on Extract, Transform and Load (ETL)
 
 
